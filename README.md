@@ -1,3 +1,3 @@
-Steps to run the test
+Step to run the test
 
  mvn clean test
